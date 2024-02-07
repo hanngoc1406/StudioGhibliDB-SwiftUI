@@ -1,0 +1,1 @@
+# StudioGhibliDB SwiftUI
